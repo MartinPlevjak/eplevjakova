@@ -43,10 +43,10 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #ff4d4d;
+  background-color:  #ff0000;
 }
 .bg-dark {
-  background-color: #222222;
+  background-color:  #ff0000
   color: white;
 }
 .text-faded {
